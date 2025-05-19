@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Simulation2-7-25.MVC.props" />
+</Project>

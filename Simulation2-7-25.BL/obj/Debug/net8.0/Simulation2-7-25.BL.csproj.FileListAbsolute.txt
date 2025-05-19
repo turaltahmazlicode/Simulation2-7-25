@@ -1,0 +1,15 @@
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\bin\Debug\net8.0\Simulation2-7-25.BL.deps.json
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\bin\Debug\net8.0\Simulation2-7-25.BL.dll
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\bin\Debug\net8.0\Simulation2-7-25.BL.pdb
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\bin\Debug\net8.0\Simulation2-7-25.DAL.dll
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\bin\Debug\net8.0\Simulation2-7-25.DAL.pdb
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.csproj.CopyComplete
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.dll
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\refint\Simulation2-7-25.BL.dll
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\Simulation2-7-25.BL.pdb
+C:\Users\II novbe\source\repos\Simulation2-7-25\Simulation2-7-25.BL\obj\Debug\net8.0\ref\Simulation2-7-25.BL.dll
